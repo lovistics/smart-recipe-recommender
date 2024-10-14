@@ -29,7 +29,6 @@ Smart Recipe Recommender is a Python-based application that suggests recipes bas
 │   └── config.yaml
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ## Installation
