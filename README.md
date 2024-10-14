@@ -13,7 +13,6 @@ Smart Recipe Recommender is a Python-based application that suggests recipes bas
 ## Project Structure
 
 ```
-project_root/
 ├── recipe_recommender/
 │   ├── __init__.py
 │   ├── data_processor.py
@@ -27,8 +26,6 @@ project_root/
 │   │   ├── recipes_raw_nosource_ar.json
 │   │   ├── recipes_raw_nosource_epi.json
 │   │   └── recipes_raw_nosource_fn.json
-│   └── processed/
-│       └── preprocessed_data.pkl
 ├── config/
 │   └── config.yaml
 ├── requirements.txt
