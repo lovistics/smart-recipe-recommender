@@ -8,7 +8,6 @@ Smart Recipe Recommender is a Python-based application that suggests recipes bas
 - Utilize TF-IDF vectorization for ingredient analysis
 - Implement cosine similarity for recipe matching
 - Provide a user-friendly interface using Gradio
-- Modular and well-organized code structure
 
 ## Project Structure
 
@@ -81,12 +80,6 @@ The application expects JSON files with recipe data in the following format:
   ...
 }
 ```
-
-## Customization
-
-- Adjust the `max_features` parameter in the `TfidfVectorizer` in `recipe_recommender/recipe_recommender.py` to control the vocabulary size.
-- Modify the `recommend_recipes` method in `recipe_recommender/recipe_recommender.py` to change the number of recommended recipes.
-- Update the preprocessing steps in `recipe_recommender/text_preprocessor.py` to customize text processing.
 
 ## Contributing
 
