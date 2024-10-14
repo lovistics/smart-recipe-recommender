@@ -1,0 +1,4 @@
+file_paths:
+  - '../data/raw/recipes_raw_nosource_ar.json'
+  - '../data/raw/recipes_raw_nosource_epi.json'
+  - '../data/raw/recipes_raw_nosource_fn.json'
