@@ -35,7 +35,7 @@ Smart Recipe Recommender is a Python-based application that suggests recipes bas
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/smart-recipe-recommender.git
+   git clone https://github.com/lovistics/smart-recipe-recommender.git
    cd smart-recipe-recommender
    ```
 
